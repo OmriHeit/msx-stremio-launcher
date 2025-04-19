@@ -1,6 +1,6 @@
 {    
     "name": "Start StremioMSX",
     "version": "1.0.0",
-    "parameter": "content:https://github.com/OmriHeit/msx-stremio-launcher.git/data/content.json",
+    "parameter": "content:https://omriheit.github.io/msx-stremio-launcher/data/content.json",
     "welcome": "none"
 }
